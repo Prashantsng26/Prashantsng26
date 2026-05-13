@@ -60,11 +60,7 @@
 
 ## 📈 Activity Graph
 
-<p align="center">
-  <a href="https://github.com/Prashantsng26">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashantsng26&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-  </a>
-</p>
+
 
 ## 🛰️ Space Missions
 
