@@ -58,9 +58,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Prashantsng26&theme=darkhub&no-frame=true&row=2&column=4"/>
 </p>
 
-## 📈 Activity Graph
-
-
 
 ## 🛰️ Space Missions
 
