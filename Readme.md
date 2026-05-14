@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="200"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🌌+Exploring+the+cosmos+of+code;🚀+Full Stack Developer;⭐+Building things on the internet;🪐+Building+YOUR_PROJECT" alt="Space Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🌌+Exploring+the+cosmos+of+code;🚀+Full+Stack+Developer;⭐+Building+AI-powered+web+apps;🪐+Turning+ideas+into+real+products" alt="Space Typing"/>
 </div>
 
 ## ⌨️ About Me
