@@ -26,9 +26,9 @@
 ## 🛸 Fleet Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=React,Pyhton,JavaScript,CSS,Html,CPP,DynamoDB,PowerBI,Tableau&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=react,python,js,css,html,cpp,dynamodb,powerbi,tableau&perline=8"/>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=AWS,GIT,GITHUB&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=aws,git,github&perline=8"/>
 </p>
 
 ## 📡 Mission Stats
