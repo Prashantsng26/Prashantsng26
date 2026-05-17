@@ -31,12 +31,7 @@
   <img src="https://skillicons.dev/icons?i=aws,git,github&perline=8"/>
 </p>
 
-## 📡 Mission Stats
 
-<p align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=Prashantsng26&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d2b&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="160"/>
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Prashantsng26&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d2b&title_color=A78BFA&text_color=c9d1d9" height="160"/>
-</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
 
@@ -46,11 +41,7 @@
   <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Prashantsng26&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d0d2b&title_color=A78BFA&text_color=c9d1d9"/>
 </p>
 
-## 🌠 Launch Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prashantsng26&theme=midnight-purple&hide_border=true&background=0d0d2b&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="55%"/>
-</p>
 
 ## 🏆 Hall of Stars
 
