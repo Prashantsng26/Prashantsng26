@@ -40,29 +40,28 @@
 <p align="center">
   <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Prashantsng26&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d0d2b&title_color=A78BFA&text_color=c9d1d9"/>
 </p>
-
-
-
-
 ## 🏆 Hall of Stars
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prashantsng26&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prashantsng26&theme=darkhub&no-frame=true&row=2&column=4"/>
+</p>
 
----
 
 ## 🛰️ Space Missions
 
+<p align="center">
+  <a href="https://github.com/Prashantsng26/Precise-Hire">
+    <img src="https://github-readmeapp.vercel.app/api/pin/?username=Prashantsng26&repo=Precise-Hire&theme=midnight-purple&hide_border=true&bg_color=0d0d2b&title_color=A78BFA&text_color=c9d1d9"/>
+  </a>
+  <a href="https://github.com/Prashantsng26/World-Of-Concepts">
+    <img src="https://github-readmeapp.vercel.app/api/pin/?username=Prashantsng26&repo=World-Of-Concepts&theme=midnight-purple&hide_border=true&bg_color=0d0d2b&title_color=A78BFA&text_color=c9d1d9"/>
+  </a>
+</p>
+
 <div align="center">
-
-[![PreciseHire](https://github-readme-stats.vercel.app/api/pin/?username=prashantsng26&repo=Precise-Hire&theme=midnight-purple&hide_border=true&bg_color=0d0d2b&title_color=A78BFA&text_color=c9d1d9)](https://github.com/Prashantsng26/Precise-Hire)
-
-[![World of Concepts](https://github-readme-stats.vercel.app/api/pin/?username=prashantsng26&repo=World-Of-Concepts&theme=midnight-purple&hide_border=true&bg_color=0d0d2b&title_color=A78BFA&text_color=c9d1d9)](https://github.com/Prashantsng26/World-Of-Concepts)
-
+<img src="https://capsule-render.vercel.app/api?type=galaxy&color=gradient&height=150&section=footer" width="100%"/>
 </div>
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=galaxy&color=gradient&height=150&section=footer" width="100%" alt="Galaxy Footer"/>
-</div>
+
+
+
