@@ -40,6 +40,7 @@
 <p align="center">
   <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Prashantsng26&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d0d2b&title_color=A78BFA&text_color=c9d1d9"/>
 </p>
+
 ## 🏆 Hall of Stars
 
 <p align="center">
